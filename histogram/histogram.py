@@ -1,3 +1,5 @@
+# graphics module을 이용해 histogram graph를 생성하는 프로그램
+
 from graphics import *
 
 def createHistogram(range_list, part):
