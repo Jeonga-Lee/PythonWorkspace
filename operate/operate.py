@@ -1,3 +1,5 @@
+# 평균, 분산, 표준편차를 구하는 프로그램
+
 import math
 
 class ReadFile:
